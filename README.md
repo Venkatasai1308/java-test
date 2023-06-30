@@ -1,4 +1,5 @@
-# java-sample main Branch
+
+#java-sample main Branch
 Sample Java Code to Build and push artifacts to S3 and deploy to lambda
 
 #java-sample feature/sonarqube
